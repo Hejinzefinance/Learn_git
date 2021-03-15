@@ -6,3 +6,5 @@ Created on Mon Mar 15 21:21:17 2021
 """
 def add(x,y):
     return x+y
+def minus(x,y):
+    return x-y
